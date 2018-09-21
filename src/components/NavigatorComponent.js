@@ -4,7 +4,6 @@ import { createFluidNavigator } from 'react-navigation-fluid-transitions'
 import HomeScreen from '../screen/HomeScreen/HomeScreen';
 import DetailScreen from '../screen/DetailScreen/DetailScreen';
 
-
 const navigationMiddleware = createReactNavigationReduxMiddleware(
   'root',
   state => state.nav
