@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Anithings",
+    "version": "1.0.0",
+    "slug": "anithings",
+    "sdkVersion": "27.0.0",
+    "ios": {
+      "bundleIdentifier": "com.yourcompany.yourappname"
+    },
+    "android": {
+      "package": "com.drake.anithings"
+    }
+  }
+}
